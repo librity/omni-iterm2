@@ -2,7 +2,7 @@
 
 > 🎨 Omni is everywhere [iTerm 2](http://iterm2.com)
 
-![Screenshot](.github/iterm.png)
+![Screenshot](.github/iterm2.png)
 
 ## Installation Instructions
 
